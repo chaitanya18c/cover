@@ -135,4 +135,4 @@ Write HTML and CSS Code for designing book cover page and execute them.
 ![HTML Validator](./vaild.png)
 
 ## Result:
-The program for designing book cover page using HTML and CSS is executed succesfully.
+The program for designing book cover page using HTML and CSS is executed Succesfully.
